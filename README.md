@@ -9,3 +9,4 @@ GitHub Game Off
 ## Requirements
 
 * [Godot - Windows - Mono Version (C# Support)](https://godotengine.org/download/windows)
+* [Mono SDK](https://www.mono-project.com/download/stable/)
